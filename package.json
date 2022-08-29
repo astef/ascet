@@ -1,6 +1,6 @@
 {
   "name": "ascet",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.0",
   "description": "Text web framework.",
   "main": "dist/lib.js",
   "files": [
