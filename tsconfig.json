@@ -1,0 +1,11 @@
+{
+  "extends": "@tsconfig/recommended",
+  "include": ["src/lib.ts"],
+  "compilerOptions": {
+    "outDir": "dist",
+    "isolatedModules": true,
+    "sourceMap": true,
+    "declaration": true,
+    "lib": ["DOM"]
+  }
+}
