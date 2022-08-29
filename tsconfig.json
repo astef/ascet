@@ -6,6 +6,6 @@
     "isolatedModules": true,
     "sourceMap": true,
     "declaration": true,
-    "lib": ["DOM"]
+    "lib": ["DOM", "ES2015"]
   }
 }
